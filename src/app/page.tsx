@@ -1,9 +1,9 @@
 export default function Home() {
   return (
     <>
-      <div className="w-[100wh] h-[100vh] background flex justify-center items-center">
+      <div className="w-[100wh] h-[100%] background flex justify-center items-center">
         <div className=" flex justify-center items-center p-10">
-          <div className="backdrop-blur-sm bg-[#673b5e]/60 rounded-md p-20 leading-wide tracking-wider">
+          <div className="backdrop-blur-sm bg-[#673b5e]/60 rounded-md p-8 md:p-20 leading-wide tracking-wider">
             <h1 className="text-md font-medium text-white text-[.6rem] md:text-[1rem]">
               My Dearest, <br /> <br /> I hope this message finds you well, surrounded by the
               beauty and joy you bring into the world. From the moment our paths
