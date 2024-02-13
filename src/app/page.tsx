@@ -17,15 +17,6 @@ export default function Home() {
             eius necessitatibus saepe. Ab quis velit alias.
           </h1>
         </div>
-
-        <div className="flex items-center justify-center gap-4 mt-7">
-          <button className="font-medium text-lg py-2 px-6 rounded-[5px] uppercase bg-[#673b5e] text-white">
-            Yes
-          </button>
-          <button className="font-medium text-lg py-2 px-6 rounded-[5px] uppercase bg-[#673b5e] text-white">
-            No
-          </button>
-        </div>
       </div>
     </div>
 
