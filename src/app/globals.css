@@ -1,4 +1,4 @@
-@tailwind base;
+hi@tailwind base;
 @tailwind components;
 @tailwind utilities;
 
@@ -16,7 +16,7 @@ body {
 }
 
 .background{
-  background-image: url('../../public/silhouetted-couple-sit-bench-autumn-tree-generative-ai.jpg');
+  background-image: url('../../public/received_255715813543090.jpeg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
